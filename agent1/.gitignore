@@ -28,3 +28,4 @@ ENV/
 *.swp
 .DS_Store
 .yaml
+config.yaml
